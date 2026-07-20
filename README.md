@@ -1,12 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tracy</h1>
 
----
+<ul>
+  <li>📊 Risk Management student exploring AI, Finance and Web3.</li>
+  <li>⚡ AI-Native Builder creating research tools and automated workflows.</li>
+  <li>📮 Contact: <a href="mailto:你的邮箱">你的邮箱</a></li>
+</ul>
 
-- 🎓 Final-year Risk Management undergraduate in Hong Kong.
-- 🌐 Web3 Marketing Intern & AI-Native Builder.
-- 🚀 Building AI tools for finance, research and workflow automation.
-- 📮 Contact: [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
-
-<br>
-
-https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt
+<picture decoding="async" loading="lazy">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=fuji&dithering=true"
+  >
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&screen_effect=true&theme=blue_chill"
+  >
+  <img
+    alt="Tracy's GitHub Stats"
+    src="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=fuji&dithering=true"
+  >
+</picture>
