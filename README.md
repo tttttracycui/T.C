@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Tracy</h1>
+<h1 align="center">Hi 👋, I'm TRACY</h1>
 
 <ul>
   <li>📊 Risk Management student exploring AI, Finance and Web3.</li>
   <li>⚡ AI-Native Builder creating research tools and automated workflows.</li>
-  <li>📮 Contact: <a href="cuicui@ln.hk">你的邮箱</a></li>
+  <li>📮 Contact: <a href="mailto:cuicui@ln.hk">cuicui@ln.hk</a></li>
 </ul>
 
 <picture decoding="async" loading="lazy">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=summer&dithering=true"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=fuji&dithering=true"
   >
+
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&screen_effect=crt&theme=blue_chill"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=crt&include_all_commits=true"
   >
+
   <img
-    alt="Tracy's GitHub Stats"
-    src="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=crt&dithering=true"
+    alt="TRACY's GitHub Stats"
+    src="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=crt&include_all_commits=true"
   >
 </picture>
