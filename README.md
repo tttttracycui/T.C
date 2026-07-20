@@ -6,19 +6,9 @@
   <li>📮 Contact: <a href="mailto:cuicui@ln.hk">cuicui@ln.hk</a></li>
 </ul>
 
-<picture decoding="async" loading="lazy">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=fuji&dithering=true"
-  >
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=crt&include_all_commits=true"
-  >
-
+<p align="center">
   <img
     alt="TRACY's GitHub Stats"
     src="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=crt&include_all_commits=true"
   >
-</picture>
+</p>
