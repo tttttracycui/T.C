@@ -1,13 +1,13 @@
-````md
-<div align="center">
+<h1 align="center">Hi, I'm TRACY 👋</h1>
 
-# Hi, I'm [TRACY] 👋
+<h3 align="center">
+  An AI-Native Builder exploring Finance, Web3 & Automation
+</h3>
 
-### An AI-Native Builder exploring Finance, Web3 & Automation
-
-
- AI-assisted Product Builder
- Keep Learning
+<p align="center">
+  AI-assisted Product Builder<br>
+  Keep Learning
+</p>
 
 <br>
 
