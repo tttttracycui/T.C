@@ -9,17 +9,12 @@
   Keep Learning
 </p>
 
-<picture decoding="async" loading="lazy">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=crt&dithering=true"
-  >
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&screen_effect=true&theme=crt"
-  >
+<br>
+
+<p align="center">
   <img
-    alt="TRACY's GitHub Stats"
-    src="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=fuji&dithering=true"
+    width="100%"
+    alt="TRACY's CRT GitHub Stats"
+    src="https://pixel-profile.vercel.app/api/github-stats-crt?username=tttttracycui&include_all_commits=true"
   >
-</picture>
+</p>
