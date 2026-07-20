@@ -12,7 +12,7 @@
 <picture decoding="async" loading="lazy">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=summer&dithering=true"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&theme=crt&dithering=true"
   >
   <source
     media="(prefers-color-scheme: dark)"
