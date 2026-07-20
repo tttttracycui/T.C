@@ -2,17 +2,19 @@
 
 <h3 align="center">
   An AI-Native Builder exploring Finance, Web3 & Automation
+<h3 align="center">
   Keep Learning
-</h3>
 
-</p>
+## Featured Projects
 
-<br>
+* **AI Stock Research Platform** — AI-assisted equity research and analysis
+* **Productivity Tools** — Small tools that reduce repetitive work
+* **Workflow SOP Library** — Reusable AI workflows for research and operations
 
-<p align="center">
-  <img
-    width="100%"
-    alt="TRACY's GitHub Stats"
-    src="https://pixel-profile.vercel.app/api/github-stats?username=tttttracycui&screen_effect=true&background=linear-gradient%28to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb%29&v=2"
-  >
-</p>
+## Currently Learning
+
+AI agents · FinTech · Web3 analytics · Product development
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/shuyi-cui-17b2353a7/) · [Portfolio](YOUR_LINK) · [Email](mailto:cuicui@ln.hk)
